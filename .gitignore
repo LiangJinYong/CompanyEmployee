@@ -1,0 +1,14 @@
+CompanyEmployees/bin/*
+CompanyEmployees/obj/*
+
+Contracts/bin/*
+Contracts/obj/*
+
+Entities/bin/*
+Entities/obj/*
+
+LoggerService/bin/*
+LoggerService/obj/*
+
+Repository/bin/*
+Repository/obj/*
